@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Laura Vozzella, Meagan Flynn",
+            "title": "Virginia Congressman Donald McEachin dies at 61 - The Washington Post",
+            "description": "McEachin represented Virginia's 4th Congressional District and had won reelection just weeks ago.",
+            "url": "https://www.washingtonpost.com/dc-md-va/2022/11/28/donald-mceachin-congress-dies/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GNTIWFUVDQI6TFLKRDBJDK24HA.jpg&w=1440",
+            "publishedAt": "2022-11-29T10:32:07Z",
+            "content": "Comment on this story\r\nRICHMOND Rep. A. Donald McEachin (D-Va.) died Monday, just weeks after winning reelection to Congress, his office announced.He was 61.\r\nMcEachin had represented Virginias 4th D… [+6103 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Issy Ronald",
+            "title": "Iran faces USMNT in winner-takes-all match to progress to World Cup knockout stages - CNN",
+            "description": "The knockout stage has already arrived for the United States Men's National Team (USMNT) at the World Cup -- nothing less than a win on Tuesday will suffice when it takes on Iran in a winner-takes-all match.",
+            "url": "https://www.cnn.com/2022/11/28/football/usmnt-iran-preview-world-cup-2022-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221127132507-05-us-iran-world-cup-preview.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-29T09:48:00Z",
+            "content": "The knockout stage has already arrived for the United States Mens National Team (USMNT) at the World Cup nothing less than a win on Tuesday will suffice when it takes on Iran in a winner-takes-all ma… [+4689 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "All the Best Cyber Monday Video Game Deals for 2022 - IGN",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiXGh0dHBzOi8vd3d3Lmlnbi5jb20vYXJ0aWNsZXMvY3liZXItbW9uZGF5LXZpZGVvLWdhbWUtZGVhbHMtMjAyMi1uaW50ZW5kby1wczUteGJveC1zdGlsbC1saXZl0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-11-29T09:00:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kiely Westhoff, Tavleen Tarrant",
+            "title": "Teen who allegedly confessed on Instagram video chat to killing girl told police it was an 'accident,' complaint says - CNN",
+            "description": "The 16-year-old Pennsylvania boy who allegedly confessed over Instagram video chat to killing a young girl told police when he was taken into custody that \"it was an accident,\" according to a criminal complaint.",
+            "url": "https://www.cnn.com/2022/11/29/us/joshua-cooper-pennsylvania-instagram-killing-complaint/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221127154701-joshua-cooper-mugshot.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-29T08:24:00Z",
+            "content": "The 16-year-old Pennsylvania boy who allegedly confessed over Instagram video chat to killing a young girl told police when he was taken into custody that it was an accident, according to a criminal … [+2073 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sarah Min",
+            "title": "Stock futures rise after major averages slide on Covid unrest in China - CNBC",
+            "description": "Investors are looking ahead to more economic data and commentary from Fed speakers this week.",
+            "url": "https://www.cnbc.com/2022/11/28/stock-market-futures-open-to-close-news.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107114118-16624773902022-09-06t150651z_1136995042_rc2qbw9lljjb_rtrmadp_0_ukraine-crisis-zelenskiy.jpeg?v=1669676552&w=1920&h=1080",
+            "publishedAt": "2022-11-29T08:16:00Z",
+            "content": "U.S. stock futures were higher on Tuesday morning after the major averages came under pressure from Covid protests in China, and as investors anticipated more economic data and commentary from Federa… [+1733 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Nancy Tartaglione",
+            "title": "Clarence Gilyard, Jr Dies: ‘Walker, Texas Ranger,’ ‘Die Hard’ Star Was 66 - Deadline",
+            "description": "Actor and academic Clarence Gilyard Jr, known for roles in such TV series as Walker, Texas Ranger and Matlock, as well as films including Die Hard and Top Gun, has died. The University of Nevada, Las Vegas’ College of Fine Arts, where Gilyard was a film and t…",
+            "url": "https://deadline.com/2022/11/clarence-gilyard-jr-dead-walker-texas-ranger-die-hard-matlock-top-gun-1235183554/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2022/11/clarence-gilyard-jr.jpg?w=1024",
+            "publishedAt": "2022-11-29T07:23:00Z",
+            "content": "Actor and academic Clarence Gilyard Jr, known for roles in such TV series as Walker, Texas Ranger and Matlock, as well as films including Die Hard and Top Gun, has died. The University of Nevada, Las… [+2406 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "China Covid: Police clamp down after days of protests - BBC",
+            "description": "Demonstrations over Covid restrictions that erupted at the weekend appear to have died down for now.",
+            "url": "https://www.bbc.com/news/world-asia-china-63785351",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11D14/production/_127808927_70f13a8e59820a42c8e28f726813ffb2d6c21e0d0_0_3895_21911000x563.jpg",
+            "publishedAt": "2022-11-29T05:41:17Z",
+            "content": "Media caption, WATCH: Five dramatic days in China as protesters take to the streets\r\nChina's protests against Covid restrictions which erupted over the weekend appear to have died down, as authoritie… [+6492 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Wyatte Grantham-Philips",
+            "title": "Mauna Loa eruption prompts officials to warn of a worst-case scenario - USA TODAY",
+            "description": "Hawaiian officials advised people to take precautionary measures after the largest active volcano in the world began to erupt late Sunday.",
+            "url": "https://www.usatoday.com/story/news/nation/2022/11/28/hawaii-volcano-mauna-loa-erupts/10788634002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/10/28/USAT/d8e6bc3c-f6d3-46d7-ab3c-35c86b84aa30-AP22300609033810.jpg?crop=3599,2025,x0,y270&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2022-11-29T05:05:48Z",
+            "content": "Mauna Loa, the largest active volcano in the world, has begun to erupt in Hawaii, the U.S. Geological Survey and other authorities said, prompting officials warning people living on Hawaiis Big Islan… [+5245 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "J. Kim Murphy",
+            "title": "Will Smith Appears on ‘The Daily Show’ in First Late-Night Interview Since Oscars Slap: ‘That Is Not Who I Want to Be’ - Variety",
+            "description": "After a series of online statements and quiet public appearances over recent months, Will Smith took further steps back into the spotlight Monday evening, appearing for an interview on “The Daily Show With Trevor Noah.” Promoting his new historical drama “Ema…",
+            "url": "https://variety.com/2022/tv/news/will-smith-daily-show-trevor-noah-oscars-slap-1235443683/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2022/11/will-smith-daily-show.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2022-11-29T05:04:00Z",
+            "content": "After a series of online statements and quiet public appearances over recent months, Will Smith took further steps back into the spotlight Monday evening, appearing for an interview on “The Daily Sho… [+3333 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Apple Newsroom"
+            },
+            "author": null,
+            "title": "App Store Awards celebrate the best apps and games of 2022 - Apple",
+            "description": "Apple today announced the winners of the 2022 App Store Awards, spotlighting 16 apps and games that inspired users and helped them stay connected.",
+            "url": "https://www.apple.com/newsroom/2022/11/app-store-awards-celebrate-the-best-apps-and-games-of-2022/",
+            "urlToImage": "https://www.apple.com/newsroom/images/product/apps/standard/Apple-App-Store-Awards-2022-Trophy.jpg.og.jpg?202211290942",
+            "publishedAt": "2022-11-29T04:34:11Z",
+            "content": "November 28, 2022\r\nPRESS RELEASE\r\nApp Store Awards celebrate the best apps and games of 2022\r\nCUPERTINO, CALIFORNIA Apple today announced the winners of the 2022 App Store Awards, spotlighting 16 app… [+6182 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Stephen Holder, Brooke Pryor",
+            "title": "Kenny Pickett, Steelers squander lead but close out Colts - ESPN",
+            "description": "Pittsburgh's rookie quarterback turned in his best game while Indy's offense continued to struggle, and fell short at the end.",
+            "url": "https://www.espn.com/nfl/story/_/id/35133861/kenny-pickett-steelers-squander-lead-close-colts",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1129%2Fr1098798_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-11-29T04:09:14Z",
+            "content": "INDIANAPOLIS -- On a night when both offenses struggled at times to maintain any momentum, it was the Pittsburgh Steelers' 11-play, 75-yard scoring drive that covered the end of the third quarter and… [+6605 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Hilary Lewis",
+            "title": "‘Everything Everywhere All at Once’ Tops Gotham Awards; Full Winners List - Hollywood Reporter",
+            "description": "Everything Everywhere All at Once was the big winner at the 2022 Gotham Awards. The film, which went into the night up for three awards, was named best feature during the event Monday at Cipriani Wall Street in New York. Everything Everywhere actor Ke Huy Qua…",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/2022-gotham-awards-winners-full-list-1235270305/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/11/GettyImages-1445291990.jpg?w=1024",
+            "publishedAt": "2022-11-29T03:40:03Z",
+            "content": "Everything Everywhere All at Once was the big winner at the 2022 Gotham Awards.\r\nThe film, which went into the night up for three awards, was named best feature during the event Monday at Cipriani Wa… [+15431 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Angie Orellana Hernandez",
+            "title": "Hailey Bieber Shows Her Ovarian Cyst “the Size of an Apple” - E! NEWS",
+            "description": "Hailey Bieber showed an image of her torso to clarify that she is not pregnant, but rather is suffering from an ovarian cyst.",
+            "url": "https://www.eonline.com/news/1356194/hailey-bieber-shows-her-ovarian-cyst-the-size-of-an-apple",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/202294/rs_1200x1200-221004072809-1200-Hailey_Bieber-2022_Vanity_Fair_Oscar_Party-gj.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2022-11-29T03:25:00Z",
+            "content": "Hailey Bieber is sharing a painful health update on social media.\r\nThe Rhode Beauty founder detailed a recent health challenge alongside an image posted Nov. 28 to her Instagram Stories. Hailey is se… [+617 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Eric Mack",
+            "title": "Astronomers Worldwide 'Troubled' By New 'Cell Phone Tower in Space' - msnNOW",
+            "description": "An international group of scientists is concerned by the brightness of a huge satellite, in terms of both visible light and radio waves.",
+            "url": "https://www.cnet.com/science/space/astronomers-worldwide-troubled-by-new-cell-phone-tower-in-space/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/f2a664c03b750448483f13df1c0aff0e04ba47b9/hub/2022/11/28/75ffa585-a443-4be0-ad11-4f1ec668c3de/iau-bluewalker-3-trail.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2022-11-29T02:39:14Z",
+            "content": "A sprawling new satellite built to connect directly with mobile phones on the surface is brighter than most of the stars in the night sky, according to astronomers who are calling it a threat to thei… [+3048 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Hugh Freeze in position to succeed quickly at Auburn amid modern college football landscape - CBS Sports",
+            "description": "Rule changes and lack of NCAA enforcement have Freeze walking into a game suited to his skill set",
+            "url": "https://www.cbssports.com/college-football/news/hugh-freeze-in-position-to-succeed-quickly-at-auburn-amid-modern-college-football-landscape/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/11/29/8479e9ba-e3ef-4ee1-99fb-1d93d077d102/thumbnail/1200x675/c7b13c22497ebeba7b1fd6581d84430a/hugh-freeze-navy-liberty-g.png",
+            "publishedAt": "2022-11-29T01:40:43Z",
+            "content": "Hugh Freeze didn't so much return to college football's biggest stage Monday as big-time college football came around to Hugh Freeze. \r\nAfter five years away from the Power Five, the best to ever to … [+5182 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jackie Wattles",
+            "title": "NASA's Orion spacecraft reaches record-breaking distance from Earth on Artemis I mission - CNN",
+            "description": "The Orion spacecraft, which is at the core of NASA's historic Artemis I mission, reached its farthest distance from Earth Monday afternoon, shattering the record for the maximum distance a spacecraft designed to carry humans has ever traveled.",
+            "url": "https://www.cnn.com/2022/11/28/world/nasa-artemis-1-orion-spacecraft-furthest-distance-moon-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221128171928-01-nasa-orion-spacecraft-112822.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-29T01:31:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nThe Orion spacecraft, which is at the core of NASAs hi… [+3833 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Laura Williamson, Adam Crafton",
+            "title": "Female Iran fans fear state 'spotters' are spying on them at World Cup games - The Athletic",
+            "description": "The women - anonymous here to protect their safety - explain why they fear they are being watched by the Iran government in Qatar",
+            "url": "https://theathletic.com/3944659/2022/11/28/iran-world-cup-2022-spies/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2022/11/28103539/GettyImages-1244955128.jpg",
+            "publishedAt": "2022-11-29T01:25:07Z",
+            "content": "The woman was becoming hysterical, standing outside the Khalifa International Stadium and sobbing.\r\nShe is Iranian and, although she no longer lives in the country, she thought she had recognised som… [+6437 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Abigail Ng, Jihye Lee",
+            "title": "Hong Kong stocks lead gains in mixed Asia session; China's Covid situation remains in focus - CNBC",
+            "description": "Stocks in Hong Kong led gains alongside Chinese indexes after media reports said China's state council will hold a press conference at 3 p.m. Beijing time.",
+            "url": "https://www.cnbc.com/2022/11/29/asia-markets-china-covid-stocks-japan-unemployment-retail-sales.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107157976-1669678619194-gettyimages-1445232904-4.jpeg?v=1669679193&w=1920&h=1080",
+            "publishedAt": "2022-11-29T01:22:00Z",
+            "content": "St. Louis Fed President James Bullard said Monday that the Fed should continue to raise its benchmark interest rate in the coming months and that the market may be underestimating the chance that the… [+968 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "AZ midterm election: Maricopa County certifies results, Cochise County refuses | LiveNOW from FOX - LiveNOW from FOX",
+            "description": "Nov. 28 was the deadline set by Arizona law for counties within the state to approve the official tally of votes for the 2022 election, a process that is als...",
+            "url": "https://www.youtube.com/watch?v=BeYgGEXiwNg",
+            "urlToImage": "https://i.ytimg.com/vi/BeYgGEXiwNg/maxresdefault.jpg",
+            "publishedAt": "2022-11-29T01:14:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBSLA Staff",
+            "title": "Riverside homicides: Virginia cop 'catfished' teen before murders, police say - CBS Los Angeles",
+            "description": "The suspect wanted in a triple homicide in Riverside Friday was killed during a law-enforcement pursuit later the same day. Austin Edwards was a former Virginia State Trooper and worked for a sheriff's office in Virginia.",
+            "url": "https://www.cbsnews.com/losangeles/news/authorities-kill-suspect-connected-to-triple-homicide-in-riverside-in-shootout/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/11/28/f8b276ca-b5f5-4644-8e90-c9788211cac6/thumbnail/1200x630/5328dd5d821c3739475ca7a6e20e9831/austin-edwards-riverside-triple-homicide.gif",
+            "publishedAt": "2022-11-29T01:05:00Z",
+            "content": "The San Bernardino County Sheriff's Department killed the suspect wanted in a gruesome triple homicide in Riverside after he opened fire on a SWAT team Friday.\r\nAccording to authorities, on Friday, N… [+4846 chars]"
+        }
+    ]
+}
